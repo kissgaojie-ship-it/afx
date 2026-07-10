@@ -12,19 +12,19 @@
       url: https://hero-sms.com/?ref=1377306
       description: 购买各国电话号码，用于在社交网络、聊天工具和其他服务中注册。
     - title: Base64编码解码
-      url: https://99688988.xyz/base64-string-converter/
-      description: 将utf-8能表示的所有字符进行Base64编码加密解密
+      url: https://tool.lu/encdec/
+      description: 在线进行 Base64、URL 等编码解码
     - title: 文叔叔
       logo: 
       url: https://www.wenshushu.cn/
       description: 传临时文件,大文件、永不限速
     - title: 网络剪贴板
       logo: 
-      url: https://clipboard.168668520.xyz/
-      description: 提供数据暂存和传送服务
+      url: https://webnote.cc/
+      description: 跨设备临时保存和传递文字内容
     - title: UUID生成
-      url: https://99688988.xyz/uuid-generator/
-      description: UUID在线生成
+      url: https://uutool.cn/uuid/
+      description: 在线批量生成 UUID 唯一识别码
     - title: 轻抖
       qrcode: 
       logo: images/logos/qingdou.jpg
